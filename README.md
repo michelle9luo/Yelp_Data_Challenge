@@ -24,6 +24,6 @@ Files:
     yelp_academic_dataset_user.json
     yelp_academic_dataset_photo.json
 
-Notes on the Dataset
+Notes on the Dataset:
 
     Each file is composed of a single object type, one json-object per-line.
