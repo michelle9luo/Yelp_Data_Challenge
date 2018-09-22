@@ -1,7 +1,5 @@
 # Yelp_Data_Challenge
-Dataset Introduction
-
-[Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
+Dataset Introduction - [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
 
 The Challenge Dataset:
 
@@ -29,5 +27,3 @@ Files:
 Notes on the Dataset
 
     Each file is composed of a single object type, one json-object per-line.
-    Take a look at some examples to get you started: https://github.com/Yelp/dataset-examples.
-
